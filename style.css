@@ -1,0 +1,10 @@
+.custom-payment-option {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    margin-right: 15px;
+    font-size: 0.9rem;
+  }
+  .custom-payment-option i {
+    font-size: 1.3rem;
+  }
